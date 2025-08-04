@@ -1,0 +1,31 @@
+{
+    "BundlesLayout": {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": {
+        "m_List": [
+            {
+                "Key": "Bundles\\zz_stats_uncapped_mod_BlueprintDirectReferences",
+                "Value": []
+            }
+        ]
+    },
+    "BlueprintPatches": [
+        {
+            "Guid": "946b4ecd52904a07bb4984bc112c7e76",
+            "Filename": "StatAdvancementSelection",
+            "PatchType": 2
+        },
+        {
+            "Guid": "780fc74432984775944fed69bb8cbe85",
+            "Filename": "StatAdvancementSelectionRank2",
+            "PatchType": 2
+        },
+        {
+            "Guid": "2fb7109dc64f49f38354d07b9b37bbf6",
+            "Filename": "StatAdvancementSelectionRank3",
+            "PatchType": 2
+        }
+    ]
+}
