@@ -26,6 +26,21 @@
             "Guid": "2fb7109dc64f49f38354d07b9b37bbf6",
             "Filename": "StatAdvancementSelectionRank3",
             "PatchType": 2
+        },
+        {
+            "Guid": "fc6abeea78a74f62ba718eae284fc831",
+            "Filename": "SkillAdvancementSelection",
+            "PatchType": 2
+        },
+        {
+            "Guid": "9b7b42f6781a4b90afb0687bcc4ae165",
+            "Filename": "SkillAdvancementSelectionRank2",
+            "PatchType": 2
+        },
+        {
+            "Guid": "a648df7db1674336ac92240237adf542",
+            "Filename": "SkillAdvancementSelectionRank3",
+            "PatchType": 2
         }
     ]
 }
